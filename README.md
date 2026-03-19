@@ -2,9 +2,10 @@
 
 **Diophantine Arithmetic as Hardware Architecture**
 
+ERI Labs · Eric Ren · New Jersey, United States · github.com/ericrenone · Founded January 2025
+
 > *The CORDIC pipeline: every multiply is a shift. Every geodesic is a shift. Every rational point is a shift. Every Diophantine argument Weil excavated across two thousand years collapses, finally, into a shift.*
 
-ERI Labs · Eric Ren · New Jersey, United States · github.com/ericrenone · Founded January 2025
 ---
 
 ## What This Is
